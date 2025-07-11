@@ -1,6 +1,6 @@
 # Project 1: Extreme Heat in New York City Classrooms
 
-I developed this story as part of my studies at Columbia Journalism School's Lede Data Journalism Program, Summer 2025 [Lede Data Journalism Program](https://ledeprogram.com/).
+I developed this story as part of my studies at Columbia Journalism School's [Lede Data Journalism Program](https://ledeprogram.com/), Summer 2025.
 
 ## Aim of Project
 
